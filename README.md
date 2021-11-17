@@ -1,8 +1,8 @@
 # I am Den 👋
 
-You just found my work account that is mainly used by some automatically running scripts and random internal documentation changes. You might want to check out [my personal account](https://github.com/dend) instead to learn about public projects I work on.
+You just found my work account that is mainly used for work-related projects. You might want to check out [my personal account](https://github.com/dend) instead to learn about public (external-facing) projects I work on. Not that you can't follow this one too - there is some great Netlify-related stuff here.
 
-And of course, stop by [my blog](https://den.dev).
+While at it, stop by [my blog](https://den.dev).
 
 ## Questions or Feedback
 
