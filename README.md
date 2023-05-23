@@ -1,8 +1,8 @@
 <div align="center">
 	<img src="media/xp.png" width="128" height="128" />
-	<h1>Den XP</h2>
+	<h1>Hi, I am Den 👋</h2>
 	<p>
-		<b>Things I build at Microsoft</b>
+		<b>Learn more about the things I do</b>
 	</p>
 </div>
 
