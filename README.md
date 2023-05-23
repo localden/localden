@@ -4,7 +4,12 @@ You just found my work account that is used exclusively for work-related project
 
 ## Professional items
 
+* ✨ I am the product manager (PM) for [Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/).
 * ✍️ I write for the [Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/).
+
+## Contact
+
+If you have any feedback on our authentication libraries, send me a note: `ddelimarsky@microsoft.com`.
 
 ## Personal work
 
