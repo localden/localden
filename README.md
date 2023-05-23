@@ -10,7 +10,7 @@ You just found my work account that is used exclusively for work-related project
 | <img src="/media/write.png" height="64px" width="64px" /> | I write for the [Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/). |
 
 <div align="center">
-	<img src="media/mail.png" width="128" height="128">
+	<img src="media/mail.png" width="64" height="64">
 	<h1>Contact</h1>
 	<p>
 		<b>Get in touch</b>
