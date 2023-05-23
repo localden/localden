@@ -10,7 +10,7 @@ You just found my work account that is used exclusively for work-related project
 
 <div align="center">
 	<img src="media/defrag.png" width="64" height="64" />
-	<h2>Professional items</h2>
+	<h2>Professional Work</h2>
 	<p>
 		<b>Things I build at Microsoft</b>
 	</p>
@@ -32,7 +32,13 @@ You just found my work account that is used exclusively for work-related project
 
 If you have any feedback on our authentication libraries, send me a note: `ddelimarsky@microsoft.com`.
 
-## Personal work
+<div align="center">
+	<img src="media/bmp.png" width="64" height="64" />
+	<h2>Personal Work</h2>
+	<p>
+		<b>What I do outside of Microsoft</b>
+	</p>
+</div>
 
 You might want to check out [my personal account](https://github.com/dend) instead to learn about public (external-facing) projects I work on. Not that you can't follow this one too - there is some great Microsoft-related stuff here.
 
