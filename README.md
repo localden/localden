@@ -1,3 +1,7 @@
+|||
+|:--|:--|
+| <img src="media/xp.png" width="64" height="64" /> | **Latest news: (_May 22, 2023_)** Our team is going to be at the Build conference in Seattle, WA! Check out **[all our sessions](https://devblogs.microsoft.com/identity/build-2023-ciam-sessions/)**. |
+
 <div align="center">
 	<img src="media/xp.png" width="128" height="128" />
 	<h1>Hi, I am Den 👋</h2>
