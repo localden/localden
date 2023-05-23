@@ -7,8 +7,7 @@ You just found my work account that is used exclusively for work-related project
 | | |
 |:--|:--|
 | <img src="/media/win98-network-neighborhood.png" height="64px" width="64px" /> | I am the product manager (PM) for [Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/). |
-
-* ✍️ I write for the [Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/).
+| <img src="/media/appwiz.png" height="64px" width="64px" /> | I write for the [Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/). |
 
 ## Contact
 
