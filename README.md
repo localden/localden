@@ -68,3 +68,6 @@ While at it, stop by [my blog](https://den.dev).
 	</p>
 </div>
 
+* **[Using the Microsoft Authentication Library with the Windows authentication broker](https://devblogs.microsoft.com/identity/msal-net-wam/)**
+* **[Announcing Microsoft Authentication Library for .NET 4.54.0, with General Availability of Managed Identity APIs](https://devblogs.microsoft.com/identity/msal-net-managed-identity-ga/)**
+* **[Update your applications from ADAL to MSAL](https://devblogs.microsoft.com/identity/update-your-applications-from-adal-to-msal/)**
