@@ -1,6 +1,6 @@
 |||
 |:--|:--|
-| <img src="media/loading.webp" width="64" height="64" /> | **Latest news: (_May 22, 2023_)** Our team is going to be at the Build conference in Seattle, WA! Check out **[all our sessions](https://devblogs.microsoft.com/identity/build-2023-ciam-sessions/)**. |
+| <img src="media/loading.webp" width="64" height="64" /> | **Latest news: [`May 22, 2023`]** Our team is going to be at the Build conference in Seattle, WA! Check out **[all our sessions](https://devblogs.microsoft.com/identity/build-2023-ciam-sessions/)**. |
 
 <div align="center">
 	<img src="media/xp.png" width="128" height="128" />
@@ -22,10 +22,12 @@ You just found my work account that is used exclusively for work-related project
 
 | | Details |
 |:---|:---|
-| <img src="/media/computer.png" height="64px" width="64px" /> | I am the product manager (PM) for **[Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/)**. |
+| <img src="/media/computer.png" height="64px" width="64px" /> | I am the product manager (PM) for **[Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/)** and **[Microsoft Authentication Library (MSAL) for Go](https://learn.microsoft.com/entra/msal/go/)**. |
 | <img src="/media/write.png" height="64px" width="64px" /> | I write for the **[Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/)**. |
 | <img src="/media/comms.png" height="64px" width="64px" /> | I am engaging with the community building applications using MSAL **[on Stack Overflow](https://stackoverflow.com/questions/tagged/azure-ad-msal)**, and wherever the community is. |
 | <img src="/media/samples.png" height="64px" width="64px" /> | I help write code samples and **[documentation](https://learn.microsoft.com/entra/msal/)** that helps developers get started with the MSAL family of libraries. |
+| <img src="/media/data.png" height="64px" width="64px" /> | I dig through data to help folks using MSAL to optimize their usage. |
+| <img src="/media/recycle.png" height="64px" width="64px" /> | I am **[helping our customers migrate](https://learn.microsoft.com/azure/active-directory/develop/msal-migration)** from our old library (Azure Active Directory Authentication Library, or ADAL for short) to the modern MSAL stack. |
 
 <div align="center">
 	<img src="media/mail.png" width="64" height="64" />
