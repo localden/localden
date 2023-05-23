@@ -1,6 +1,6 @@
 # I am Den 👋
 
-You just found my work account that is used exclusively for work-related projects.
+You just found my work account that is used exclusively for work-related projects. I am currently employed at **Microsoft** as a **Principal Product Manager** in the Identity SDK team.
 
 ## Professional items
 
