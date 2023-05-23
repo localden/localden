@@ -39,6 +39,9 @@ You just found my work account that is used exclusively for work-related project
 
 If you have any feedback on our authentication libraries, send me a note: `ddelimarsky@microsoft.com`.
 
+> <img src="media/important.png" width="64px" />
+> Keep in mind that this address is only for feedback around MSAL or if you want to inquire about things that are _not technical support_. For questions on how to use MSAL, feel free to use the appropriate GitHub issues or [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-ad-msal).
+
 <div align="center">
 	<img src="media/bmp.png" width="64px" />
 	<h2>Personal Work</h2>
