@@ -1,6 +1,6 @@
 ><img src="media/loading.webp" width="64px" /> 
 >
-><strong>Latest news: <code>[May 22, 2023]</code></strong> Our team is going to be at the Build conference in Seattle, WA! Check out <strong><a href="https://devblogs.microsoft.com/identity/build-2023-ciam-sessions/">all our sessions</a></strong>. |
+><strong>Latest news: <code>[May 22, 2023]</code>:</strong> Our team is going to be at the Build conference in Seattle, WA! Check out <strong><a href="https://devblogs.microsoft.com/identity/build-2023-ciam-sessions/">all our sessions</a></strong>.
 
 <div align="center">
 	<img src="media/xp.png" width="128px" />
