@@ -10,7 +10,7 @@
 	</p>
 </div>
 
-You just found my work account that is used exclusively for work-related projects. I am currently employed at **Microsoft** as a **Principal Product Manager** in the Identity SDK team.
+You just found my work account that is used exclusively for work-related projects. I am currently employed at **Microsoft** as a **Principal Product Manager** in the Identity SDK team. This is the team, that among other things, builds the [Microsoft Authentication Library (MSAL)](https://learn.microsoft.com/entra/msal/).
 
 <div align="center">
 	<img src="media/defrag.png" width="64" height="64" />
@@ -20,7 +20,7 @@ You just found my work account that is used exclusively for work-related project
 	</p>
 </div>
 
-| | Details |
+| Fancy Icon | Details |
 |:---|:---|
 | <img src="/media/computer.png" height="64px" width="64px" /> | I am the product manager (PM) for [Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/). |
 | <img src="/media/write.png" height="64px" width="64px" /> | I write for the [Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/). |
