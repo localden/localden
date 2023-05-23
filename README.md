@@ -59,3 +59,12 @@ If you have any feedback on our authentication libraries, send me a note: `ddeli
 You might want to check out [my personal account](https://github.com/dend) to learn about public (external-facing) projects I work on. Not that you can't follow this one too - there is some great Microsoft-related stuff here.
 
 While at it, stop by [my blog](https://den.dev).
+
+<div align="center">
+	<img src="media/ce.png" width="64px" />
+	<h2>Notable Resources</h2>
+	<p>
+		<b>Things to check out</b>
+	</p>
+</div>
+
