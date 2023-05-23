@@ -11,7 +11,7 @@ You just found my work account that is used exclusively for work-related project
 
 <div align="center">
 	<img src="media/mail.png" width="64" height="64">
-	<h1>Contact</h1>
+	<h2>Contact</h2>
 	<p>
 		<b>Get in touch</b>
 	</p>
