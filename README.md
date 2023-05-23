@@ -8,9 +8,6 @@ You just found my work account that is used exclusively for work-related project
 	<p>
 		<b>Things I build at Microsoft</b>
 	</p>
-	<br>
-	<br>
-	<br>
 </div>
 
 | | |
@@ -25,9 +22,6 @@ You just found my work account that is used exclusively for work-related project
 	<p>
 		<b>Get in touch</b>
 	</p>
-	<br>
-	<br>
-	<br>
 </div>
 
 If you have any feedback on our authentication libraries, send me a note: `ddelimarsky@microsoft.com`.
