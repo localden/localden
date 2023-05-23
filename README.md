@@ -41,8 +41,6 @@ If you have any feedback on our authentication libraries, send me a note: `ddeli
 
 > <img src="media/important.png" width="64px" />
 >
-> <strong>Imporant</strong>
->
 > Keep in mind that this address is only for feedback around MSAL or if you want to inquire about things that are not technical support. For questions on how to use MSAL, feel free to use the appropriate GitHub issues or <strong><a href="https://stackoverflow.com/questions/tagged/azure-ad-msal">Stack Overflow</a></strong>.
 
 <div align="center">
