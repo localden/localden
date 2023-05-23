@@ -20,11 +20,12 @@ You just found my work account that is used exclusively for work-related project
 	</p>
 </div>
 
-| Fancy Icon | Details |
+| | Details |
 |:---|:---|
 | <img src="/media/computer.png" height="64px" width="64px" /> | I am the product manager (PM) for **[Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/)**. |
 | <img src="/media/write.png" height="64px" width="64px" /> | I write for the **[Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/)**. |
 | <img src="/media/comms.png" height="64px" width="64px" /> | I am engaging with the community building applications using MSAL **[on Stack Overflow](https://stackoverflow.com/questions/tagged/azure-ad-msal)**, and wherever the community is. |
+| <img src="/media/samples.png" height="64px" width="64px" /> | I help write code samples and **[documentation](https://learn.microsoft.com/entra/msal/)** that helps developers get started with the MSAL family of libraries. |
 
 <div align="center">
 	<img src="media/mail.png" width="64" height="64" />
