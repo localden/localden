@@ -1,4 +1,10 @@
-# I am Den 👋
+<div align="center">
+	<img src="media/xp.png" width="128" height="128" />
+	<h1>Den XP</h2>
+	<p>
+		<b>Things I build at Microsoft</b>
+	</p>
+</div>
 
 You just found my work account that is used exclusively for work-related projects. I am currently employed at **Microsoft** as a **Principal Product Manager** in the Identity SDK team.
 
