@@ -20,6 +20,8 @@ You just found my work account that is used exclusively for work-related project
 	</p>
 </div>
 
+This is as much as I can share publicly about what I do. If you work at Microsoft and want to partner on any of the items above, **[send me a note](#contact)**.
+
 | | Details |
 |:---|:---|
 | <img src="/media/computer.png" width="64px" /> | I am the product manager (PM) for **[Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/)** and **[Microsoft Authentication Library (MSAL) for Go](https://learn.microsoft.com/entra/msal/go/)**. |
@@ -28,6 +30,7 @@ You just found my work account that is used exclusively for work-related project
 | <img src="/media/samples.png" width="64px" /> | I help write code samples and **[documentation](https://learn.microsoft.com/entra/msal/)** that helps developers get started with the MSAL family of libraries. |
 | <img src="/media/data.png" width="64px" /> | I dig through data to help folks using MSAL optimize their usage. |
 | <img src="/media/recycle.png" width="64px" /> | I am **[helping our customers migrate](https://learn.microsoft.com/azure/active-directory/develop/msal-migration)** from our old library (Azure Active Directory Authentication Library, or ADAL for short) to the modern MSAL stack. |
+| <img src="/media/die.png" width="64px" /> | I engage closely with our internal and external customers and partners to design maintainable APIs for our portfolio of SDKs. |
 
 <div align="center">
 	<img src="media/mail.png" width="64px" />
