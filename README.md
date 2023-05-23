@@ -2,15 +2,22 @@
 
 You just found my work account that is used exclusively for work-related projects. I am currently employed at **Microsoft** as a **Principal Product Manager** in the Identity SDK team.
 
-## Professional items
+<div align="center">
+	<img src="media/defrag.png" width="64" height="64" />
+	<h2>Professional items</h2>
+	<p>
+		<b>Things I build at Microsoft</b>
+	</p>
+	<br>
+	<br>
+	<br>
+</div>
 
-| | |
-|:--|:--|
 | <img src="/media/computer.png" height="64px" width="64px" /> | I am the product manager (PM) for [Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/). |
 | <img src="/media/write.png" height="64px" width="64px" /> | I write for the [Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/). |
 
 <div align="center">
-	<img src="media/mail.png" width="64" height="64">
+	<img src="media/mail.png" width="64" height="64" />
 	<h2>Contact</h2>
 	<p>
 		<b>Get in touch</b>
