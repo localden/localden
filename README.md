@@ -29,7 +29,7 @@ This is as much as I can share publicly about what I do. If you work at Microsof
 | <img src="/media/computer.png" width="64px" /> | I am the product manager (PM) for **[Microsoft Authentication Library (MSAL) .NET](https://learn.microsoft.com/entra/msal/dotnet/)** and **[Microsoft Authentication Library (MSAL) for Go](https://learn.microsoft.com/entra/msal/go/)**. |
 | <img src="/media/write.png" width="64px" /> | I write for the **[Microsoft Entra Identity Developer Blog](https://devblogs.microsoft.com/identity/)**. |
 | <img src="/media/comms.png" width="64px" /> | I am engaging with the community building applications using MSAL **[on Stack Overflow](https://stackoverflow.com/questions/tagged/azure-ad-msal)**, and wherever the community is. |
-| <img src="/media/samples.png" width="64px" /> | I help write code samples and **[documentation](https://learn.microsoft.com/entra/msal/)** that helps developers get started with the MSAL family of libraries. |
+| <img src="/media/samples.png" width="64px" /> | I help write code samples and **[documentation](https://learn.microsoft.com/entra/msal/)** that helps developers get started with the MSAL family of libraries. One of the projects I help with right now is moving all the Wiki content from GitHub to Microsoft Learn. |
 | <img src="/media/data.png" width="64px" /> | I dig through data to help folks using MSAL optimize their usage. |
 | <img src="/media/recycle.png" width="64px" /> | I am **[helping our customers migrate](https://learn.microsoft.com/azure/active-directory/develop/msal-migration)** from our old library (Azure Active Directory Authentication Library, or ADAL for short) to the modern MSAL stack. |
 | <img src="/media/die.png" width="64px" /> | I engage closely with our internal and external customers and partners to design maintainable APIs for our portfolio of SDKs. |
@@ -42,7 +42,7 @@ This is as much as I can share publicly about what I do. If you work at Microsof
 	</p>
 </div>
 
-If you have any feedback on our authentication libraries, send me a note: `ddelimarsky@microsoft.com`.
+If you have any feedback on our authentication libraries, send me a note: `ddelimarsky@microsoft.com`. Complaints and roadmap suggestions are fair game, as long as you include your scenarios!
 
 > **Warning**
 >
@@ -56,6 +56,6 @@ If you have any feedback on our authentication libraries, send me a note: `ddeli
 	</p>
 </div>
 
-You might want to check out [my personal account](https://github.com/dend) instead to learn about public (external-facing) projects I work on. Not that you can't follow this one too - there is some great Microsoft-related stuff here.
+You might want to check out [my personal account](https://github.com/dend) to learn about public (external-facing) projects I work on. Not that you can't follow this one too - there is some great Microsoft-related stuff here.
 
 While at it, stop by [my blog](https://den.dev).
