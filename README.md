@@ -42,7 +42,7 @@ This is as much as I can share publicly about what I do. If you work at Microsof
 	</p>
 </div>
 
-If you have any feedback on our authentication libraries, send me a note: `ddelimarsky@microsoft.com`. Complaints and roadmap suggestions are fair game, as long as you include your scenarios!
+If you have any feedback on our authentication libraries, send me a note: `den@microsoft.com`. Complaints and roadmap suggestions are fair game, as long as you include your scenarios!
 
 > **Warning**
 >
