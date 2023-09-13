@@ -1,8 +1,8 @@
 ><img src="media/loading.webp" width="64px" /> 
 >
-><strong>Latest update <code>[May 22, 2023]</code>:</strong>
+><strong>Latest update <code>[September 13, 2023]</code>:</strong>
 >
->Our team is going to be at the Build conference in Seattle, WA! Check out <strong><a href="https://devblogs.microsoft.com/identity/build-2023-ciam-sessions/">all our sessions</a></strong>.
+>MSAL.NET 4.56.0 is released. Make sure to <a href="https://www.nuget.org/packages/Microsoft.Identity.Client/">update your packages</a>!
 
 <div align="center">
 	<img src="media/xp.png" width="128px" />
