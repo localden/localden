@@ -1,5 +1,6 @@
-# 👋 Welcome to my GitHub corner!
+# 🔒 Den Delimarsky (SECURITY)
 
-I am a Principal Product Manager on the [Microsoft Authentication Library (MSAL)](https://msal.dev) team. This is a work-only account.
+I am a Principal Product Manager on the [Microsoft Authentication Library (MSAL)](https://msal.dev) team.
 
-If you are looking for my personal account, you need to visit the [@dend](https://github.com/dend) page.
+>[!NOTE]
+>This is a work-only account. If you are looking for my personal account and related contributions, you need to visit the [@dend](https://github.com/dend) page.
