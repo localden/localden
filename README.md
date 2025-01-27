@@ -1,6 +1,6 @@
-# 🔒 Den Delimarsky (SECURITY)
+# 🚀 Den Delimarsky (DEVELOPER DIVISION)
 
 >[!NOTE]
 >This is a work-only account. If you are looking for my personal account and related contributions, look at [@dend](https://github.com/dend).
 
-I work on security SDKs ([Microsoft Authentication Library (MSAL)](https://msal.dev) and service-to-service libraries) at Microsoft. If you want to report a security issue, follow the guidelines in the [Microsoft Bug Bounty Program](https://www.microsoft.com/msrc/bounty).
+I work on developer tools and platforms at Microsoft. You can learn more about the Microsoft developer ecosystem on the [Microsoft for Developers page](https://developer.microsoft.com/).
