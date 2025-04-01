@@ -1,4 +1,4 @@
-# 🚀 Den Delimarsky (DEVELOPER DIVISION)
+# 🏝️ Hi, I'm Den Delimarsky, Principal Product Engineer
 
 >[!NOTE]
 >This is a work-only account. If you are looking for my personal account and related contributions, look at [@dend](https://github.com/dend).
