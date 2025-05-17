@@ -7,4 +7,4 @@
 - 🔒 My focus is on **security** and **identity**. If you have auth questions, send them my way.
 - 🧩 I **tinker with APIs, libraries, tools**, and anything that can help me manage the technology in my life better.
 
-You can find me on [**Bluesky**](https://bsky.app/den.dev), [**Mastodon**](https://mastodon.social/@localden), [**GitHub**](https://github.com/dend), [**LinkedIn**](https://www.linkedin.com/in/dendeli/), [**YouTube**](https://www.youtube.com/@DenDev), [**Stack Overflow**](https://stackoverflow.com/users/303696/den), and [**Hacker News**](https://news.ycombinator.com/user?id=dend).
+You can find me on [**personal website**](https://den.dev).
