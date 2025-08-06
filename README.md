@@ -7,4 +7,4 @@
 - 🤖 I am one of the **Core Maintainers** for [Model Context Protocol](https://modelcontextprotocol.io).
 - 🔒 My in-depth focus is on **security** and **identity**.
 
-You can find me on [**website**](https://den.dev).
+Learn more on my [**website**](https://den.dev).
