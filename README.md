@@ -3,8 +3,7 @@
 >[!NOTE]
 >This is a work-only account. Personal account at [`@dend`](https://github.com/dend).
 
-- 🪴 I work on **growing AI developer tools and platforms** at Microsoft.
-- 🤖 I am one of the **Core Maintainers** for [Model Context Protocol](https://modelcontextprotocol.io).
-- 🔒 My in-depth focus is on **security** and **identity**.
+- 🪴 I work on [**Model Context Protocol (MCP)**](https://modelcontextprotocol.io) at Anthropic.
+- 🔒 My general focus is on **security** and **identity**, but other areas are not out of the question.
 
 Learn more on my [**website**](https://den.dev).
